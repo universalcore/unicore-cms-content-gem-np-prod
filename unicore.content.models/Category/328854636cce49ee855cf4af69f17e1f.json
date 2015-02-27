@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "328854636cce49ee855cf4af69f17e1f", 
   "language": "nep_NP", 
-  "title": "\u0915\u0947\u091f\u0940 \u0928\u093e\u092f\u093f\u0915\u093e\u0939\u0930\u0942", 
+  "title": "Girl Heroes", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "girl-heroes", 
