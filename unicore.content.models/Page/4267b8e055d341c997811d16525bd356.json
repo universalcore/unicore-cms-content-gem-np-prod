@@ -6,12 +6,12 @@
   "primary_category": "75b7aa9bfddc45aea33918e4fc5ecf20", 
   "created_at": "2015-01-27T15:59:28+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-27T02:07:47.498849+00:00", 
+  "modified_at": "2015-02-27T05:30:08.606225+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-how-say-no", 
   "uuid": "4267b8e055d341c997811d16525bd356"
