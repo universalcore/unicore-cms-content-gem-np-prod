@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "75b7aa9bfddc45aea33918e4fc5ecf20", 
   "language": "nep_NP", 
-  "title": "Life Tips", 
+  "title": "\u0938\u091f\u093f\u0915 \u091c\u0941\u0915\u094d\u0924\u093f\u0939\u0930\u0942", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "life-tips", 
